@@ -5,8 +5,8 @@ Will Tengyuan Li DSGN 270 Assignment 2 - Convention Treasure Hunt
 ![local navigation](./img/sait-local-navi.png "sait-l-navi").
 ![hamburger navigation](./img/hamburger-navigation.png "sait-h-navi").
 ## Part two
-![americaneagle-hero-section](sait\assignment\270-dsgn-assignment\270-assignment2\dsgn270-a2\img\americaneagle-hero-section.png "americaneagle-hero-section").
-![big-img-with-shoplink](sait\assignment\270-dsgn-assignment\270-assignment2\dsgn270-a2\img\ae-big-pic.png "americaneagle-hero-section").
+![americaneagle-hero-section](./img/americaneagle-hero-section.png "americaneagle-hero-section").
+![big-img-with-shoplink](./img/ae-big-pic.png "americaneagle-hero-section").
 - This American-Eagle web page is a very good example of visual hierachy.
 - 1. The target audience that this website caters to is who wants to find something on sale.
   2. The benefit this website provides to its users:
